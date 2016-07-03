@@ -1,5 +1,5 @@
 # Teams
-List of Beehive teams corresponding with Slack channels and [spreadsheet]() of main tasks
+List of Beehive teams and [Teams and Tasks]() spreadsheet
 
 - Data (including analysis)
 - Backend
