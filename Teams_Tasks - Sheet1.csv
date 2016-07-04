@@ -1,0 +1,62 @@
+GitHubTeams,Tasks,Repos
+Development,,
+,Get feedback on Beta repo and documentation,Beta
+,Get feedback on Modules repo and documentation,Modules
+,Begin development work on beta.beehive.ngo,Beta
+,Complete beta.beehive.ngo framework and containers,Beta
+,Complete toolbox menu and modules framework,Beta
+,Complete basic UI elements and test their functionality,Beta
+,Establish a layout blueprint for modules,Modules
+,Setup beta database,Beta
+,Populate database with a test set of aid activity files,Beta
+,Develop and test backend,Beta
+,Develop and test login-module,Modules
+,Develop and test initial chart-module,Modules
+,"Design, develop and test donate functionality",Beta
+,Develop dataset.beehive.ngo data preview tool,Analysis
+Database,,
+,Establish database fields,Beehive
+,Format database,Beehive
+,Load database with initial data,Beehive
+,Setup API and generate API documentation,Beehive
+,,
+Analysis,,
+,Generate a dataset relevant to the Syrian crisis,Analysis
+,Generate a whole IATI dataset,Analysis
+,Establish a methodology to maintain an updated whole IATI dataset,Analysis
+,Create an initial test database,Analysis
+,Create a formal database,Analysis
+,Establish and test database connectivity and functionality,Analysis
+,Create an analysis task list,Analysis
+,IATI ReliefWeb charts,Analysis
+,Participating organizations select crises,Analysis
+,"Local level partners (participating orgs, transactions)",Analysis
+,Updates through humanitarian program cycle,Analysis
+,VR preparations,Analysis
+,Budget and transactions comparison,Analysis
+,Fundraising targets,Analysis
+Design,,
+,Assemble beta review team and resources,Design
+,Generate initial design blueprint,Design
+,Develop module icon examples and guidelines,Design
+,Begin design review of beta.beehive.ngo,Design
+,Start creating user personas,Design
+AI,,
+,Assemble an AI team,AI
+,Research and list query commands and variations,AI
+,Generate a test database,AI
+,Build a test chatbot,AI
+,Begin logic mapping,AI
+,Experiment with a CDN,AI
+Salesforce,,
+,Assemble a Salesforce team,Salesforce
+,Develop a Salesforce project roadmap,Salesforce
+,Begin formatting Salesforce database,Salesforce
+,Test Salesforce API,Salesforce
+,Test Saleaforce apps and mobile sdk,Salesforce
+VR,,
+,Assemble a VR team,VR
+,Complete an initial VR dataset ,VR
+,Research and test VR website UI/UX,VR
+,Test develop a VR data visualization video,VR
+,Establish how VR can support data-driven crowdfunding,VR
