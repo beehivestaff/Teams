@@ -1,11 +1,11 @@
-# Database
+# Database Team
 
-text
+GitHub milestones:
 
-Establish database fields
+- Establish database fields
 
-Format database
+- Format database
 
-Load database with initial data
+- Load database with initial data
 
-Setup API and generate API documentation
+- Setup API and generate API documentation
