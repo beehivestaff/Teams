@@ -1,6 +1,6 @@
 # Database Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Establish database fields
 
