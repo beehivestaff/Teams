@@ -1,6 +1,6 @@
 # Analysis Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Generate a dataset relevant to the Syrian crisis
 
