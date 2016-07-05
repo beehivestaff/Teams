@@ -1,5 +1,5 @@
 # Teams
-Beehive Slack channels, GitHub teams (linked to team task lists) and [Teams and Tasks](https://github.com/BeehiveNGO/Teams/blob/master/multicols.csv) spreadsheet
+Beehive Slack channels, GitHub teams (linked to team task lists) and [Teams and Tasks](https://github.com/BeehiveNGO/Teams/blob/master/Teams_Tasks.csv) spreadsheet
 
 Slack Channel | GitHub Team | Description
 ------------ | ------------- | -------------
