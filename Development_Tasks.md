@@ -1,6 +1,6 @@
 # Development Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Get feedback on Beta repo and documentation
 
