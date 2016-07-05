@@ -1,6 +1,5 @@
 # Teams
 
-- [Development Overview]()
 - [Teams and Tasks](https://github.com/BeehiveNGO/Teams/blob/master/Teams_Tasks.csv) spreadsheet
 - [Goals Timeline]()
 - List of Beehive Slack channels and GitHub teams (linked to team task lists):
