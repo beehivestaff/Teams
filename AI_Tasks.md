@@ -1,6 +1,6 @@
 # AI Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Assemble an AI team
 
