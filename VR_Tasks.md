@@ -1,6 +1,6 @@
 # VR Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Assemble a VR team
 
