@@ -1,13 +1,13 @@
-# Salesforce
+# Salesforce Team
 
-text
+GitHub Milestones:
 
-Assemble a Salesforce team
+- Assemble a Salesforce team
 
-Develop a Salesforce project roadmap
+- Develop a Salesforce project roadmap
 
-Begin formatting Salesforce database
+- Begin formatting Salesforce database
 
-Test Salesforce API
+- Test Salesforce API
 
-Test Salesforce apps and mobile sdk
+- Test Salesforce apps and mobile sdk
