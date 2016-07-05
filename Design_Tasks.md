@@ -1,13 +1,13 @@
-# Design
+# Design Team
 
-text
+GitHub milestones:
 
-Assemble beta review team and resources
+- Assemble beta review team and resources
 
-Generate initial design blueprint
+- Generate initial design blueprint
 
-Develop module icon examples and guidelines
+- Develop module icon examples and guidelines
 
-Begin design review of beta.beehive.ngo
+- Begin design review of beta.beehive.ngo
 
-Start creating user personas
+- Start creating user personas
