@@ -1,15 +1,15 @@
-# AI
+# AI Team
 
-Text
+GitHub milestones:
 
-Assemble an AI team
+- Assemble an AI team
 
-Research and list query commands and variations
+- Research and list query commands and variations
 
-Generate a test database
+- Generate a test database
 
-Build a test chatbot
+- Build a test chatbot
 
-Begin logic mapping
+- Begin logic mapping
 
-Experiment with a CDN
+- Experiment with a CDN
