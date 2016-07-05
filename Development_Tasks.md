@@ -1,31 +1,31 @@
-# Development Tasks
+# Development Team
 
-GitHub Milestones:
+GitHub milestones:
 
-Get feedback on Beta repo and documentation
+- Get feedback on Beta repo and documentation
 
-Get feedback on Modules repo and documentation
+- Get feedback on Modules repo and documentation
 
-Begin development work on beta.beehive.ngo
+- Begin development work on beta.beehive.ngo
 
-Complete beta.beehive.ngo framework and containers
+- Complete beta.beehive.ngo framework and containers
 
-Complete toolbox menu and modules framework
+- Complete toolbox menu and modules framework
 
-Complete basic UI elements and test their functionality
+- Complete basic UI elements and test their functionality
 
-Establish a layout blueprint for modules
+- Establish a layout blueprint for modules
 
-Setup beta database
+- Setup beta database
 
-Populate database with a test set of aid activity files
+- Populate database with a test set of aid activity files
 
-Develop and test backend
+- Develop and test backend
 
-Develop and test login-module
+- Develop and test login-module
 
-Develop and test initial chart-module
+- Develop and test initial chart-module
 
-Design, develop and test donate functionality
+- Design, develop and test donate functionality
 
-Develop dataset.beehive.ngo data preview tool
+- Develop dataset.beehive.ngo data preview tool
