@@ -1,6 +1,6 @@
-# Development Tasks (Milestones)
+# Development Tasks
 
-text
+GitHub Milestones:
 
 - [Development](https://github.com/BeehiveNGO/Teams/blob/master/Development_Tasks.md)
 
