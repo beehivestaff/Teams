@@ -1,6 +1,6 @@
 # Salesforce Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Assemble a Salesforce team
 
