@@ -1,31 +1,31 @@
-# Analysis
+# Analysis Team
 
-text
+GitHub milestones:
 
-Generate a dataset relevant to the Syrian crisis
+- Generate a dataset relevant to the Syrian crisis
 
-Generate a whole IATI dataset
+- Generate a whole IATI dataset
 
-Establish a methodology to maintain an updated whole IATI dataset
+- Establish a methodology to maintain an updated whole IATI dataset
 
-Create an initial test database
+- Create an initial test database
 
-Create a formal database
+- Create a formal database
 
-Establish and test database connectivity and functionality
+- Establish and test database connectivity and functionality
 
-Create an analysis task list
+- Create an analysis task list
 
-IATI ReliefWeb charts
+- IATI ReliefWeb charts
 
-Participating organizations select crises
+- Participating organizations select crises
 
-Local level partners (participating orgs, transactions)
+- Local level partners (participating orgs, transactions)
 
-Updates through humanitarian program cycle
+- Updates through humanitarian program cycle
 
-VR preparations
+- VR preparations
 
-Budget and transactions comparison
+- Budget and transactions comparison
 
-Fundraising targets
+- Fundraising targets
