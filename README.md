@@ -1,5 +1,7 @@
 # Teams
-Beehive Slack channels, GitHub teams (linked to team task lists), [Teams and Tasks](https://github.com/BeehiveNGO/Teams/blob/master/Teams_Tasks.csv) spreadsheet and [Goals Timeline]()
+
+- List of Beehive Slack channels and GitHub teams (linked to team task lists)
+- [Teams and Tasks](https://github.com/BeehiveNGO/Teams/blob/master/Teams_Tasks.csv) spreadsheet and [Goals Timeline]()
 
 Slack Channel | GitHub Team | Description
 ------------ | ------------- | -------------
