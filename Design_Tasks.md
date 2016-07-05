@@ -1,6 +1,6 @@
 # Design Team
 
-GitHub milestones:
+**GitHub milestones:**
 
 - Assemble beta review team and resources
 
