@@ -1,4 +1,4 @@
-# VR Team
+# Virtual Reality Team
 
 **Principle GitHub [Milestones]():**
 
