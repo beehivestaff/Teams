@@ -1,6 +1,6 @@
 # AI Team
 
-**Principle GitHub Milestones:**
+**Principle GitHub [Milestones]():**
 
 - Assemble an AI team
 
