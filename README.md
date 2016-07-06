@@ -13,7 +13,7 @@ Design | [Design](https://github.com/BeehiveNGO/Teams/blob/master/Design_Tasks.m
 AI | [AI](https://github.com/BeehiveNGO/Teams/blob/master/AI_Tasks.md) | 
 VR | [VR](https://github.com/BeehiveNGO/Teams/blob/master/VR_Tasks.md) | 
 Salesforce | [Salesforce](https://github.com/BeehiveNGO/Teams/blob/master/Salesforce_Tasks.md) | 
-IATI \ [IATI]() | 
+IATI | [IATI]() | 
 General |  | 
 Visitors | | 
 Library |  | 
