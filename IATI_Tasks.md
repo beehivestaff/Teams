@@ -1,3 +1,3 @@
 # IATI Team
 
-**GitHub milestones:**
+**Principle GitHub milestones:**
