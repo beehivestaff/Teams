@@ -19,3 +19,5 @@ General |  |
 Visitors | | 
 Library |  | 
 Twitter-feed |  | 
+
+[Request]() an invitation to join Beehive on Slack
