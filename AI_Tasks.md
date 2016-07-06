@@ -1,4 +1,4 @@
-# AI Team
+# Artificial Intelligence Team
 
 **Principle GitHub [Milestones]():**
 
